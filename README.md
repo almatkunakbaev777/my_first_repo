@@ -1,6 +1,6 @@
 # my_first_repo
 
--My Awesome project
+-My Super Project
 - 1 stage
 - 2 stage
 - edc
